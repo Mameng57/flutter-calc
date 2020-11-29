@@ -44,3 +44,4 @@ app.*.map.json
 
 #KDE related
 .directory
+pubspec.lock
